@@ -61,7 +61,8 @@ pip install -r requirements.txt
 Run all cells to train models and evaluate performance
 
 
-To view the Power BI dashboard:
-Open Power BI Desktop
+Power BI Dashboard  
+To view the Power BI fraud detection dashboard, click the link below:  
 
+[View Power BI Dashboard](https://drive.google.com/drive/folders/14XU-dM2i66ZZtHyRj4QNLb1gqT2Q4R03?usp=drive_link)  
 Explore fraud trends and model results
