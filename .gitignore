@@ -1,0 +1,27 @@
+# .gitignore = Things you don't want to unnecessarily store on GitHub.
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environment (if any)
+venv/
+env/
+
+# Ignore large dataset/model files
+*.csv
+*.pkl
+*.h5
+
+# Ignore Colab files
+sample_data/
+
+# PowerBI file (if large)
+*.pbix
+
