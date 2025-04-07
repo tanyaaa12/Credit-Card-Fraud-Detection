@@ -6,7 +6,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 
 Dataset Used:
-Source: Kaggle - [Credit Card Fraud Dataset] (https://www.kaggle.com/mlg-ulb/creditcardfraud)   
+Source: Kaggle - [Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)   
 Total Records: 284,807 transactions
 Fraudulent Transactions: ~0.17%
 Features: Anonymized (V1-V28), along with Time and Amount columns.
