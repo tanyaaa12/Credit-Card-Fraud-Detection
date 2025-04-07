@@ -54,7 +54,7 @@ Correlation Patterns
 Fraud Distribution by Time
 
 Power BI Dashboard Link :  
-[Power BI](https://app.powerbi.com/groups/me/reports/d6694d4d-11dd-4940-af8c-4f87066952ca/2e73a771f26803ef0342?experience=power-bi) 
+[Power BI](https://app.powerbi.com/groups/me/reports/4aa3ef71-0ed6-4739-8da7-96a0c3cdfcb0/2e73a771f26803ef0342?experience=power-bi) 
 
 [View Power BI Dashboard Drive Link](https://drive.google.com/drive/folders/14XU-dM2i66ZZtHyRj4QNLb1gqT2Q4R03?usp=drive_link)  
 
