@@ -55,7 +55,8 @@ Fraud Distribution by Time
 
 Power BI Dashboard Link :  
 (https://svkmmumbai-my.sharepoint.com/:u:/g/personal/tanya_batra228_svkmmumbai_onmicrosoft_com/ESkQ5SCxcitBuQ4TN_tWdu4B_xfMRdv9HwIf_WL_2l71DA?e=kmwBqa) 
-[View Power BI Dashboard](https://drive.google.com/drive/folders/14XU-dM2i66ZZtHyRj4QNLb1gqT2Q4R03?usp=drive_link)  
+
+[View Power BI Dashboard Drive Link](https://drive.google.com/drive/folders/14XU-dM2i66ZZtHyRj4QNLb1gqT2Q4R03?usp=drive_link)  
 
 Key observations from the dashboard:
 Fraud transactions tend to happen at specific time intervals.
